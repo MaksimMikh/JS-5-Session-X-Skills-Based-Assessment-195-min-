@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #6277a7 ;
+}
+
+h1{
+  padding-top:35px;
+  color:#86dfdf;
+  font-size: 3.5em;
+  text-align: center;
+}
+
+#input{
+  color:white;
+  font-size:1.5em;
+}
+
+.person{
+  text-align: center;
+  height:100%;
+}

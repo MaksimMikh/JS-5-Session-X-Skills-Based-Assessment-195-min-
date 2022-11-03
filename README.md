@@ -1,1 +1,5 @@
-# JS-5-Session-X-Skills-Based-Assessment-195-min-
+For this one of the Generation USA JavaScript projects, I had to create a web page which I can input user information into. This project was to test my knowledge when it comes to DOM using vanilla JavaScript. In this project, I used HTML/CSS and JavaScript to:
+-Create a person "Class".
+-Create a dynamic submit button so that when it is clicked on, a new Person object is generated using the data that was typed into the input boxes to display a new message with the personal information. The concepts that were used to implement the code were basic HTML elements, and htmk<form>, and <input>.
+I also implemented a couple of vanilla javascript concepts such as the dom method
+(document.getElementByld), declaring a variable, returning a function, and template literal ${...}. With this project, I definitely can reuse the code to create a membership Website or any Website that requires a user to input their information to send to the server for processing.
